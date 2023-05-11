@@ -53,7 +53,7 @@ FILE_CHANNEL = int(environ.get('FILE_CHANNEL', '-1001616308548'))
 FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/TGxMULTIBOTDB')
 
 #VALUES
-HRK_APP_NAME = environ.get('HRK_APP_NAME', 'mybots')
+HRK_APP_NAME = environ.get('HRK_APP_NAME', 'jerry1243')
 HRK_API = environ.get('HRK_API', '0')
 
 #Downloader
